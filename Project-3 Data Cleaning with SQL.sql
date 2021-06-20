@@ -141,7 +141,7 @@ From RowNumCte
 Where row_num>1
 
 
--- Delete unued Column
+-- Delete unused Column
 
 Select * 
 From NashvilleHousing
