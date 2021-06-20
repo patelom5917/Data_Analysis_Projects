@@ -7,3 +7,6 @@ This repository shows my Data Analysis Projects
 ## [Project- 2 Uk-Bank Customers Visualization](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/UK-Bank-Customers.pptx)
 * **Tableau Public link** :-https://public.tableau.com/app/profile/om2321/viz/UK-Bank-Customers-Dashboard_16241836620530/Dashboard1
 * **In this Project I use Tableau to Visualize Uk-Bank Customer's age , their work , bank balance distrubation and other things . I combine all this things and create a dashboard and show how all this things make an impact on each other and how this visualization help bank to target new customers.**
+
+## [Project- 3 Nashville Housing data Cleaning with sql](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Project-3%20Data%20Cleaning%20with%20SQL.sql)
+* **In this project i use sql for cleaning data. In this project i did Standardize date format, Fill null Address, Breaking address into individual column (address,city), change y and n too YES and NO in SoldAsVacant column, remove Duplicate entry, Delete unused Column.**
