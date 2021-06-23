@@ -10,3 +10,7 @@ This repository shows my Data Analysis Projects
 
 ## [Project- 3 Nashville Housing data Cleaning with sql](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Project-3%20Data%20Cleaning%20with%20SQL.sql)
 * **In this project i use sql for cleaning data. In this project i did Standardize date format, Fill null Address, Breaking address into individual column (address,city), change y and n too YES and NO in SoldAsVacant column, remove Duplicate entry, Delete unused Column.**
+
+## [Project- 4 Movie data Correlation with Python](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Project-4%20Data%20Correlation%20with%20python.ipynb)
+* **Dataset :** https://www.kaggle.com/danielgrijalvas/movies
+*  **In this project I use python for data analysis. In this project I use python and find correlation between different column, and some visualization I performed.**
