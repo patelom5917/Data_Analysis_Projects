@@ -1,6 +1,6 @@
 # Data_Analysis_Projects
 This repository shows my Data Analysis Projects
-## [Project- 1 Covid SQL]()
+## [Project- 1 Covid SQL](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Project-1%20COVID%20SQL%20Project.sql)
 * **Dataset Link** :-https://ourworldindata.org/covid-deaths
 * **In this Project I use many sql query to get many insight from data like  numberoof deaths , number of covid caeses , vaccination  in different country and different continent.**
 
