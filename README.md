@@ -25,6 +25,7 @@ This repository shows my Data Analysis Projects
 - [x] Capacity Trends by Top 5 Country in Region
 - [x] Energy generation of Renewable and Non-Renewable Energy Region-wise
 - [x] Hyperlink to map to visualize more about that Region
+- [x] Back button for go back to main dashboard
 
 
-<p><img width="450" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-1.jpg" /><img width="450" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-2.jpg" /></p>
+<p><img width="400" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-1.jpg" />   <img width="400" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-2.jpg" /></p>
