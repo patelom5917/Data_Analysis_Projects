@@ -14,3 +14,17 @@ This repository shows my Data Analysis Projects
 ## [Project- 4 Movie data Correlation with Python](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Project-4%20Data%20Correlation%20with%20python.ipynb)
 * **Dataset :** https://www.kaggle.com/danielgrijalvas/movies
 *  **In this project I use python for data analysis. In this project I use python and find correlation between different column, and some visualization I performed.**
+
+## [Project- 5 Renewable Energy Dashboard using Excel](https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-1.xlsm)
+**This Dashboard coontain visualization about...**
+- [x] Renewable capacity(MW) by different Region
+- [x] Global Coonsumption of Renewable Energy
+- [x] Top 5 Country for investment in different year
+- [x] Jobs in Renewable Energy in different year
+- [x] % of Renewable and noon-renewable energy
+- [x] Capacity Trends by Top 5 Country in Region
+- [x] Energy generation of Renewable and Non-Renewable Energy Region-wise
+- [x] Hyperlink to map to visualize more about that Region
+
+
+<p><img width="450" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-1.jpg" /><img width="450" height="250" src="https://github.com/patelom5917/Data_Analysis_Projects/blob/master/Renewable%20energy%20dashboard-2.jpg" /></p>
